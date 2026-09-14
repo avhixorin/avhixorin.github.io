@@ -23,6 +23,7 @@
   body {
     margin: 0;
     height: 100vh;
+    width: full;
     overflow: hidden;
     font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     background: var(--bg);
